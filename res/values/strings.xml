@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    <string name="app_name">TipCalc</string><string name="subtotal">Subtotal</string>
+    <string name="split">Split By</string>
+    <string name="percent">Percent</string>
+    <string name="total">Total</string>
+    <string name="calculate">Calculate</string>
+    <string name="tipAmount">You should tip</string>
+
+</resources>
